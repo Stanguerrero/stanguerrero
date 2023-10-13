@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stan, an <a href="https://linkedin.com/in/stanley-guerrero">IT Professional</a>☺</h1>
+<h1>Hi, I'm Stan, an <a href="https://www.linkedin.com/in/stanley-guerrero-b5a4b4293/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/stanley-guerrero
+[linkedin]: https://www.linkedin.com/in/stanley-guerrero-b5a4b4293/
